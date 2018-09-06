@@ -170,7 +170,7 @@
 				<div class="modal-body">
 
 
-					<form data-toggle="validator" action="/customer-ajax/14" method="put">
+					<form data-toggle="validator" action="/customer-ajax/" method="put">
 
 						<div class="form-group">
 
